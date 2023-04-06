@@ -10,3 +10,24 @@ This file is to show what we have learned for all github commands
 
 ## Git Pull
 `git pull` is a (clone(download) + merge) operation and mostly used when you are working as teamwork. (Can be multiple time if there is new changes on the repo). git pull downloads the changes and merges them into your current branch. 
+
+## git push
+Usage: git push [variable name] master
+This command sends the committed changes of master branch to your remote repository.
+
+## git add
+Usage: git add [file]
+This command adds one or more files to the staging area.
+
+## git commit
+Usage: git commit -m “[ Type in the commit message]”
+This command records or snapshots the file permanently in the version history.
+
+## git branch
+Usage: git branch
+This command lists all the local branches in the current repository.
+
+## git checkout
+Usage: git checkout [branch name]
+This command is used to switch from one branch to another.
+
